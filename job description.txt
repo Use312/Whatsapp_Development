@@ -1,0 +1,187 @@
+ASSOCIATE QA ENGINEER
+
+We are looking for an Associate Quality Assurance (QA) Engineer to join our dynamic team.
+
+Responsibilities
+
+Knowing Automation Testing frameworks is an added advantage
+Review requirements, specifications and technical design documents to provide timely and meaningful feedback.
+Create detailed, comprehensive and well-structured test plans and test cases.
+Estimate, prioritize, plan and coordinate testing activities.
+Design, develop and execute automation scripts using open-source tools.
+Identify, record, document thoroughly and track bugs.
+Perform thorough regression testing when bugs are resolved.
+Develop and apply testing processes for new and existing products to meet client needs.
+Liaise with internal teams (e.g. developers and product managers) to identify system requirements.
+Monitor debugging process results.
+Investigate the causes of non-conforming software and train users to implement solutions.
+Track quality assurance metrics, like defect densities and open defect counts.
+Stay up-to-date with new testing tools and test strategies.
+
+Key Skills Requirements
+
+Proven work experience in software development
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes.
+Experience in writing clear, concise and comprehensive test plans and test cases.
+Hands-on experience with both white box and black box testing.
+Hands-on experience with automated testing tools.
+Solid knowledge of SQL and scripting.
+Experience working in an Agile/ Scrum development process.
+Experience with performance and/or security testing is a plus.
+
+Experience - Minimum 6 months is mandatory
+Location - Kochi (Remote)
+Notice Period - Immediate to Max 30 Days
+
+
+
+SOFTWARE TEST ENGINEER : EXPERIENCED (MANUAL & SELENIUM)
+
+We are looking for Jr Software Test Engineers to develop and execute exploratory and automated tests to ensure product quality.
+
+The Test Engineers role plays an important part in our company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective.
+
+Essential Responsibilities:
+
+•Review the requirements and develop appropriate test cases, to attain 100% test coverage
+•Perform Sanity, Functional, System, Integration Testing in the product to Report defects
+•Effective co-ordination with the team
+•Adhere to the process flow and ensure minimal bug leakage
+•Great interpersonal and communication skill
+
+Qualifications/Requirements:
+
+•1 to 5 years of experience as Test Engineer.
+•Experience in Automation is a Must.
+•Hands-on knowledge of testing Web Applications; front-end and back-end.
+•Profound knowledge in concepts and methodologies of Software Testing.
+•Ability to adapt rapidly to changing requirement.
+•Experience with JIRA or TFS is an advantage.
+•ISQTB Certification is an added advantage.
+•Excellent verbal & written communication skills and an ability to effectively communicate at a number of different levels and platforms.
+
+EMAIL: HR@INERG.COM
+
+
+Job Title: QA Engineer
+
+Company: ATEAM SOFT SOLUTIONS
+
+Location: Technopark, or Hybrid (Office/Remote)
+
+About Us: ATEAM SOFT SOLUTIONS is a leading software development company committed to delivering innovative solutions to our clients. We specialize in [mention any specific industry or niche], striving to exceed expectations with every project.
+
+Job Description: We are currently seeking a talented QA Engineer with a minimum of 3 years of experience to join our dynamic team. The ideal candidate will be responsible for ensuring the quality and reliability of our software products through meticulous testing and attention to detail.
+
+Responsibilities:
+
+Develop and execute test plans, test cases, and test scripts to thoroughly assess software functionality.
+Collaborate with cross-functional teams to identify and prioritize testing requirements.
+Perform manual and automated testing to detect bugs, defects, and performance issues.
+Document test results, report defects, and track resolution progress.
+Participate in agile development processes, including sprint planning, reviews, and retrospectives.
+Stay up-to-date with industry best practices and emerging technologies in software testing.
+Requirements:
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+Minimum of 3 years of experience as a QA Engineer or Software Tester.
+Strong understanding of software testing methodologies, tools, and processes.
+Proficiency in writing test cases and test scripts.
+Experience with automated testing frameworks (e.g., Selenium, Cypress).
+Solid knowledge of SQL and relational databases (MySQL, PostgreSQL).
+Excellent analytical and problem-solving skills.
+Effective communication and teamwork abilities.
+
+
+shellsquare
+Responsibilities:
+
+ 
+
+1.     Agile Development Practices:
+
+ 
+
+o   Collaborate with cross-functional teams to understand project requirements and contribute to agile development processes.
+
+o   Participate in sprint planning, review, and retrospective meetings to align testing activities with development goals.
+
+ 
+
+2.     Testing Expertise:
+
+ 
+
+o   Conduct comprehensive testing, including load, performance, security, and database testing, to ensure the reliability and scalability of software applications.
+
+o   Develop and execute test plans, test cases, and test scripts based on project requirements.
+
+o   Identify, report, and track software defects to resolution.
+
+ 
+
+3.     Cloud Platforms:
+
+ 
+
+o   Utilize knowledge of Azure, AWS, and other cloud platforms to create and manage test environments.
+
+o   Collaborate with development teams to ensure testing aligns with cloud architecture best practices.
+
+ 
+
+4.     Project Management:
+
+ 
+
+o   Work with cloud project management platforms to plan, track, and report on testing activities.
+
+o   Contribute to project timelines and milestones to ensure testing activities are integrated into the overall development lifecycle.
+
+ 
+
+5.     Automation:
+
+ 
+
+o   Design, develop, and maintain automated test scripts to improve efficiency and effectiveness of testing processes.
+
+o   Identify opportunities for test automation and implement solutions to increase test coverage.
+
+ 
+
+6.     Deployment Knowledge:
+
+ 
+
+o   Possess a solid understanding of deployment processes and collaborate with development teams to ensure smooth and error-free deployments. Contribute to the development of deployment scripts and participate in deployment activities
+
+Show Less...
+Preferred Skills
+            
+
+·        Bachelor’s degree in computer science, Engineering, or related field.
+
+·        Proven experience as a Quality Analyst or similar role in agile software development environments.
+
+·        Strong expertise in load, performance, security, and database testing.
+
+·        Hands-on experience with Azure DevOps, AWS, and other cloud platforms.
+
+·        Familiarity with cloud project management platforms.
+
+·        Proficiency in test automation tools and frameworks.
+
+·        Knowledge of deployment processes and practices.
+
+·        Excellent communication and collaboration skills.
+
+·        Ability to work in a fast-paced and dynamic environment.
+
+
+
+
+job  : https://www.amazon.jobs/en/jobs/2550514/associate-quality-services
+https://www.amazon.jobs/en/jobs/2550529/associate-quality-services
+https://www.amazon.jobs/en/jobs/2444973/quality-assurance-tech-level-3
